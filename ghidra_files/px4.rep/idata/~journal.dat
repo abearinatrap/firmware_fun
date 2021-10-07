@@ -1,0 +1,4 @@
+IADD:00000000:/px4_output.pxx4
+IDSET:/px4_output.pxx4:a7ac5ced57c1557682045100
+IADD:00000001:/px4_fmu-v5_default.px4
+IDSET:/px4_fmu-v5_default.px4:a7ac5cefec82166549445600
