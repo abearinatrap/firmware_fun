@@ -1,7 +1,5 @@
 Reverse-engineering px4 firmware
 
-This is what I have so far
-
 px4_output is the firmware code to use in ghidra
 
 When opening up in ghidra, if you are starting a new project, 
